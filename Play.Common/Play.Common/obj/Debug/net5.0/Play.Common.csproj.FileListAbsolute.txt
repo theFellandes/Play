@@ -1,0 +1,12 @@
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\bin\Debug\net5.0\Play.Common.dll
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\bin\Debug\net5.0\ref\Play.Common.dll
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.dll
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
+C:\Users\Fellandes\RiderProjects\Play.Common\Play.Common\obj\Debug\net5.0\Play.Common.pdb
